@@ -15,7 +15,7 @@ var dates = [
 }
 ];
 
-// Loops through the 'dates' objects array and calculates the number of days left from current date.
+// Loops through the 'dates' array and calculates the number of days left from the current date.
 $("#trigger").click(function(){
   var today = new Date();
   for (var i = 0; i < dates.length; i++) {
