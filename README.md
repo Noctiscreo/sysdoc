@@ -1,0 +1,15 @@
+# sysdoc
+This is a small tech test type project where I was asked to 'improve the code' of the SyksDocOriginal.js.
+
+The code pulls today's date, then calculates how many days there are from today's date until the holidays listed.
+
+The code (with my changes) can be run on Codepen here:
+
+https://codepen.io/noctiscreo/pen/BaWeaVz
+
+
+My original changes are in sysdoc.js. The second file, sysdoc2.js, is where I attempted to create a function dedicated to the calculations so that it could be reused. Something didn't work with the jquery and it would break. This is something that could obviously be improved. I also could have used 'let' instead of 'var' to update the code a little bit.
+
+As with other small projects on my Github I uploaded the data knowing it was for test purposes only.
+
+
