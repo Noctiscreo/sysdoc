@@ -8,7 +8,7 @@ The code (with my changes) can be run on Codepen here:
 https://codepen.io/noctiscreo/pen/BaWeaVz
 
 
-My original changes are in sysdoc.js. The second file, sysdoc2.js, is where I attempted to create a function dedicated to the calculations so that it could be reused. Something didn't work with the jquery and it would break. This is something that could obviously be improved. I also could have used 'let' instead of 'var' to update the code a little bit.
+My original changes are in sysdoc.js. The second file, sysdoc2.js, is where I attempted to create a function dedicated to the calculations so that it could be reused, but something didn't work with the jquery and it would break.
 
 As with other small projects on my Github I uploaded the data knowing it was for test purposes only.
 
